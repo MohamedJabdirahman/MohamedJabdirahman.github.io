@@ -12,3 +12,10 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
 }
+exp-skill
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0, 0.1)
+}
